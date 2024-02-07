@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @DeveshWeb
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning Redux
+- 💞️ I’m looking to collaborate on React Js based appliction
+- 📫 How to reach me X - @DeveshPurohit01
